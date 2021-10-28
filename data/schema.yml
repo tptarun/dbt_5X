@@ -1,0 +1,9 @@
+version: 2
+
+sources: 
+  - name: COVID_19_INDONESIA_TARUN_PRAJAPATI
+    database: FIVETRAN_INTERVIEW_DB
+    schema: GOOGLE_SHEETS
+    tables:
+      - name: COVID_19_INDONESIA_TARUN_PRAJAPATI
+        
